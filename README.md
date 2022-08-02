@@ -1,20 +1,20 @@
 # KuddleTest
 
-**<u>About the program:</u>**
+**About the program:**
 
 The program contains 3 classes namely Yoga(), Gym() and Dance(). y, g and d are the class objects respectively.
 They each have a list variable which contains name of all the students under the class object, current variable which shows the count of members enrolled, capacity variable which shows maximum capacity of each class object and start_time variable which shows the start time of classes.
 The user is allowed to add more members to any class as long as the current variable is low than or equal to capacity.
 The user is also allowed to remove names from class if the difference between start time and time of removal is 30 minutes.
 
-
+--------------------------------------------------------
 
 
 **Assumptions:**
 
 Here, we have considered time to be in integers and not the regular HH:MM:SS format.
 
-
+--------------------------------------------------------
 
 
 **Instructions to run the program:**
@@ -26,7 +26,7 @@ Here, we have considered time to be in integers and not the regular HH:MM:SS for
 5) For any details on variable or code, comments are added wherever necessary in the code itself.
 
 
-
+--------------------------------------------------------
 
 **Input:**
 
@@ -41,14 +41,14 @@ Here, we have considered time to be in integers and not the regular HH:MM:SS for
 5) If 1 is entered then repeat from step 1.
 
 
-
+--------------------------------------------------------
 
 **Output:**
 
 list variable from every class is getting printed to show the enrolled members in each class object.
 If a user name is getting removed then current time variable is also getting printed.
 
-
+--------------------------------------------------------
 
 
 **Sample Test Case 1:**
@@ -87,7 +87,7 @@ Gym students are []
 
 Dance students are []
 
-
+--------------------------------------------------------
 
 
 **Sample Test Case 2:**
