@@ -39,49 +39,92 @@ If a user name is getting removed then current time variable is also getting pri
 Sample Test Case 1:
 
 Enter your name
+
 -Vipul
+
 Enter your interest which you want to register for :
+
 -Y
+
+Booking successfully completed
+
 Do you want to continue Press 1 if Yes, Press 0 if No, Press 2 if you want to remove?
+
 -2
+
 Enter your name to remove
+
 -Vipul
+
 Enter interest where you want your name to be removed from
+
 -Y
+
 Time is  45
+
 Do you want to continue Press 1 if Yes, Press 0 if No, Press 2 if you want to remove?
+
 -0
+
 Yoga students are ['Vipul]
+
 Gym students are []
+
 Dance students are []
 
 
 Sample Test Case 2:
 
 Enter your name
+
 -Deepali
+
 Enter your interest which you want to register for :
+
 -D
+
 Booking successfully completed
+
 Do you want to continue Press 1 if Yes, Press 0 if No, Press 2 if you want to remove?
+
 -1
+
 Enter your name
+
 -Shruti
+
 Enter your interest which you want to register for :
+
 -D
+
 Booking successfully completed
+
 Do you want to continue Press 1 if Yes, Press 0 if No, Press 2 if you want to remove?
+
 -2
+
 Enter your name to remove
+
 -Shruti
+
 Enter interest where you want your name to be removed from
+
 -D
+
+Booking successfully completed
+
 Time is  138
+
 Member removed. If anyone is in waiting list, then they got enrolled
+
 Do you want to continue Press 1 if Yes, Press 0 if No, Press 2 if you want to remove?
+
 -0
+
 Yoga students are  []
+
 Gym students are  []
+
 Dance students are  ['Deepali']
 
 
