@@ -8,9 +8,13 @@ The user is allowed to add more members to any class as long as the current vari
 The user is also allowed to remove names from class if the difference between start time and time of removal is 30 minutes.
 
 
+
+
 **Assumptions:**
 
 Here, we have considered time to be in integers and not the regular HH:MM:SS format.
+
+
 
 
 **Instructions to run the program:**
@@ -20,6 +24,8 @@ Here, we have considered time to be in integers and not the regular HH:MM:SS for
 3) If start_time and time has less than 30 minutes difference then no changes or removal of names will take place.
 4) The program considers all possible edge cases and gives appropriate output at each stage.
 5) For any details on variable or code, comments are added wherever necessary in the code itself.
+
+
 
 
 **Input:**
@@ -35,10 +41,14 @@ Here, we have considered time to be in integers and not the regular HH:MM:SS for
 5) If 1 is entered then repeat from step 1.
 
 
+
+
 **Output:**
 
 list variable from every class is getting printed to show the enrolled members in each class object.
 If a user name is getting removed then current time variable is also getting printed.
+
+
 
 
 **Sample Test Case 1:**
@@ -76,6 +86,8 @@ Yoga students are ['Vipul]
 Gym students are []
 
 Dance students are []
+
+
 
 
 **Sample Test Case 2:**
