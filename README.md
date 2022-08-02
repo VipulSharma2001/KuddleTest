@@ -1,6 +1,6 @@
 # KuddleTest
 
-**About the program:**
+**<u>About the program:</u>**
 
 The program contains 3 classes namely Yoga(), Gym() and Dance(). y, g and d are the class objects respectively.
 They each have a list variable which contains name of all the students under the class object, current variable which shows the count of members enrolled, capacity variable which shows maximum capacity of each class object and start_time variable which shows the start time of classes.
